@@ -1,12 +1,9 @@
-.body{
-background-color: gray;
-}
-h1{
-    color: blue;
-}
-h2{
-    color: red;
-}
-h4{
-    color: green;
+
+th,td,tr{
+    padding: 5px;
+    border: 2px solid black;
+    text-align: center;
+    border-spacing: 6px;
+    background-color: cornsilk;
+
 }
