@@ -5,8 +5,17 @@ th,td,tr{
     text-align: center;
     text-decoration: darkblue;
     text-transform: capitalize;
-    text-transform: uppercase;
+    text-transform: uppercase ;
     border-spacing: 6px;
     background-color: cornsilk;
 
+}
+h1{
+    background: red;
+    padding: 20px;
+    margin:30px;
+    border-style:solid;
+    border-width: 10px;
+    border-color:burlywood;
+    border-radius: 10px;
 }
