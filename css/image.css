@@ -1,9 +1,9 @@
 div{
     height: 400px;
-    color: red;
+    color: red; 
 }
 .big-img{
-
+    hight:200px;
     background:url("./batman.jpeg");
     background-size: cover;
 }
