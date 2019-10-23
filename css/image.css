@@ -1,0 +1,17 @@
+div{
+    height: 400px;
+    color: red;
+}
+.big-img{
+
+    background:url("./batman.jpeg");
+    background-size: cover;
+}
+.small-img{
+    background:url("./joker.jpeg");
+    background-size: cover;
+}
+.folder-img{
+    background:url("./aquaman.jpeg");
+    background-size: cover;
+}
