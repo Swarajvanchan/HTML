@@ -3,6 +3,9 @@ th,td,tr{
     padding: 5px;
     border: 2px solid black;
     text-align: center;
+    text-decoration: darkblue;
+    text-transform: capitalize;
+    text-transform: uppercase;
     border-spacing: 6px;
     background-color: cornsilk;
 
